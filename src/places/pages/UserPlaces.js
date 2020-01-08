@@ -30,6 +30,19 @@ const DUMMY_PLACES = [
         },
         creator: 'u2'
 
+    },
+    { 
+        id: 'p2',
+        title: 'Empire State Building',
+        description: 'One of the most famous sky scrapers in the world!',
+        imageUrl: 'https://images.pexels.com/photos/3166875/pexels-photo-3166875.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+        address: 'Location: 13° 9′ 48.57″ S, 72° 32′ 45.04″ W ',
+        location: {
+            lat: 13.16349,
+            lang: -72.545845,
+        },
+        creator: 'u2'
+
     }
 ]
 
